@@ -1,5 +1,5 @@
 # AmbitionBox WebScarping
-Project Name: Web Scraping Company Data from AmbitionBox
+## Project Name: Web Scraping Company Data from AmbitionBox
 
 Description:
 This project aims to scrape company data from AmbitionBox, a website providing insights into various companies, and convert it into a DataFrame. The scraped data includes company names and details such as ratings, reviews, type, number of employees, sector, and age. Finally, the data is exported to a CSV file for further analysis.
