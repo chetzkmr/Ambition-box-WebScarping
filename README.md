@@ -4,14 +4,14 @@
 Description:
 This project aims to scrape company data from AmbitionBox, a website providing insights into various companies, and convert it into a DataFrame. The scraped data includes company names and details such as ratings, reviews, type, number of employees, sector, and age. Finally, the data is exported to a CSV file for further analysis.
 
-Tools and Libraries Used:
+## Tools and Libraries Used:
 
     Python
     BeautifulSoup (for web scraping)
     pandas (for data manipulation)
     requests (for HTTP requests)
 
-Note:
+## Note:
 
   Make sure to respect the website's terms of service and usage policy when scraping data.
   Adjust the script as necessary based on changes to the website's structure or data format.
